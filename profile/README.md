@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Were Stardust</h1>
-<h3 align="center">Developing osu! Private Server Software since 2021 🌟</h3>
+<h1 align="center">Hiya 👋, We're Stardust.</h1>
+<h3 align="center">🌟Developing osu! Private Server Software since 2020 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stardustdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="stardustdevelopment" /> </p>
 
